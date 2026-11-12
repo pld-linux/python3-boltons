@@ -6,13 +6,13 @@
 Summary:	When they're not builtins, they're boltons
 Summary(pl.UTF-8):	To, co nie jest wbudowane, jest w boltons
 Name:		python3-%{module}
-Version:	25.0.0
+Version:	26.2.0
 Release:	1
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/boltons/
 Source0:	https://files.pythonhosted.org/packages/source/b/boltons/%{module}-%{version}.tar.gz
-# Source0-md5:	fd7a60168e8cda65b4794f0c72437417
+# Source0-md5:	decd7f12414718b22eb5ba914d93d7c4
 URL:		https://pypi.org/project/boltons/
 BuildRequires:	python3-build
 BuildRequires:	python3-flit_core >= 3.2
